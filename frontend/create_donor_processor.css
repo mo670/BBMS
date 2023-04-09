@@ -1,0 +1,27 @@
+
+form{
+    padding: 30px 20px 20px 30px;
+}
+
+h3{
+    text-align:center;
+}
+
+.container{
+    padding: 30px 20px 30px 40px;
+    background-color: rgb(225, 169, 168);
+    width:600px;
+    margin: auto;
+    margin-top: 150px;
+    outline-style: solid;
+
+}
+.bg{
+     padding-top: 6px;
+    
+}
+button{
+    
+    margin-bottom:20px 10px 20px 10px;
+  
+}
